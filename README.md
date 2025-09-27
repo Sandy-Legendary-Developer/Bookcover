@@ -121,7 +121,8 @@ Publish the website in the LocalHost.
  <div class="author">By Santhosh</div>
  </div>
 </body>
-</html> ```
+</html>
+```
 
 ## OUTPUT:
 
